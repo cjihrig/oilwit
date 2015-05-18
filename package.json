@@ -1,0 +1,30 @@
+{
+  "name": "oilwit",
+  "version": "1.0.0",
+  "description": "Twilio API wrapper",
+  "author": "Continuation Labs",
+  "homepage": "https://github.com/continuationlabs/userinfo#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/continuationlabs/userinfo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/continuationlabs/userinfo/issues"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "boom": "2.x.x",
+    "hoek": "2.x.x",
+    "wreck": "5.x.x"
+  },
+  "keywords": [
+    "twilio",
+    "call",
+    "text",
+    "message"
+  ]
+}
